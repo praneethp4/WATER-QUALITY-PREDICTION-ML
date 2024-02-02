@@ -10,19 +10,21 @@ The Dependent variable is named as column "is_safe" which has 2 classes in the d
 Class 0 represents water that is NOT suitable
 Class 1 represents water that is suitable
 ## Preprocessing
-Converted attributes to float.
-Removed NAN values.
-Normalizing The dataset.
-Standardizing the dataset
-Removing outliers using Inter Quartile Range.
+•	Converted attributes to float.
+•	Removed NAN values.
+•	Normalizing The dataset.
+•	Standardizing the dataset
+•	Removing outliers using Inter Quartile Range.
+
 ## DATA VISULIZATION 
 We visualized data using 
-Plot box
-Pair plot
-Matshow
-Heatmap
-Scatter_matrix
-Count plot for dependent feature
+•	Plot box
+•	Pair plot
+•	Matshow
+•	Heatmap
+•	Scatter_matrix
+•	Count plot for dependent feature
+
  ## Learning Algorithms used
  ### Logistic Regresssion
  ### SVM
